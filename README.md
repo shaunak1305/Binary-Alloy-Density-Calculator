@@ -48,8 +48,20 @@ Prerequisites
 
 You will need Python installed on your machine, along with the matplotlib library for graphing.
 
+**Error Handling**
+
+The project takes care of the error handling in the program by using a function which detects whether the prompt given by the user is correct and creates a loop of asking input till the correct input is obtained from the user.
+
+**CSV Database**
+
+The project will create a CSV database which contains the data points used to plot the final graph.
+
 # About This Project
 
 I created this project as my first foray into Python programming. My goal is to continue building a strong foundation in Computational Materials Science, translating physical metallurgy concepts into robust software tools.
 
 Feel free to explore the code, suggest improvements, or fork the repository!
+
+<img width="1102" height="803" alt="image" src="https://github.com/user-attachments/assets/47767c83-ccf4-4292-8dd7-4dec7caf63e9" />
+
+
